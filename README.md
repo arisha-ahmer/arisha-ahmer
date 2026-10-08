@@ -21,6 +21,6 @@ I'm a Data Analyst who loves turning messy data into clear insights.
 - [Finance & Profitability Dashboard](https://1drv.ms/w/c/2de265ee09fc84dd/IQCRath2LqCpQY50dsA-wBIVAQOayTir6YBeUdkj7mYIQJY?e=GZ41ok) —
    Built a 3-page finance dashboard in Power BI for North Bridge Manufacturing Co. (2013-2014, $118.7M sales). Used Power Query for data     preparation and DAX for sales, profit margin and year-over-year growth. Found that higher discounts cut profit margin from 21.9% to       9.1%, and that sales peak in Q4.
 
-## 📫 Contact Me
-- [LinkedIn]:www.linkedin.com/in/arisha-ahmer
-- [Email]: humaraahmer55@gmail.com
+## 📫 Contact me
+[LinkedIn](https://www.linkedin.com/in/arisha-ahmer)
+[Email](mailto:humaraahmer55@gmail.com)
